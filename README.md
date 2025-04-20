@@ -1,4 +1,4 @@
-#🧠 AgadVed - Medical Chatbot
+# 🧠 AgadVed - Medical Chatbot
 AgadVed is an AI-powered medical chatbot built to assist users with medical queries in a natural, conversational way. It combines modern NLP techniques with vector-based search and real-time speech recognition to deliver accurate, informative, and context-aware responses.
 
 🌐 Live Demo: AgadVed on Hugging Face Spaces
